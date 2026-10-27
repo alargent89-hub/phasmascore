@@ -1,0 +1,18 @@
+# Godot
+.godot/
+.import/
+export.cfg
+export_presets.cfg
+*.translation
+
+# Secrets, never commit
+.secrets/
+*.env
+
+# Delegation packs (working scratch, regenerated per dispatch)
+packs/
+
+# OS / editor
+Thumbs.db
+desktop.ini
+.DS_Store
